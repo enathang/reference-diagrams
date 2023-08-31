@@ -1,5 +1,10 @@
 This repository is intended to be a collection of reference diagrams/comics. I find the act of spacially laying out and connecting diagrams useful in understanding and remembering them. They're also fun :)
 
+xv6 OS:
+** Chapter 1 **
+
+![Ch 1 xv6 diagram](xv6/xv6-ch1-thumbnail.png)
+
 ## References
 Some of the comics I'm inspired by include:
 
