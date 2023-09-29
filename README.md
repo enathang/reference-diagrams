@@ -1,9 +1,18 @@
 This repository is intended to be a collection of reference diagrams/comics. I find the act of spacially laying out and connecting diagrams useful in understanding and remembering them. They're also fun :)
 
-xv6 OS:
-**Chapter 1**
+## xv6 OS:
+These diagrams reflect the information presented in MIT's XV6 OS textbook and OS. The original text can be found here: https://pdos.csail.mit.edu/6.828/2023/xv6.html
+
+**Example: Chapter 1**
 
 ![Ch 1 xv6 diagram](xv6/xv6-ch1-thumbnail.png)
+
+## Chip War
+(2023) I've been reading Chris Miller's book "Chip War" and wanted to try and diagram the historical relationships of the time. Sorta a "Napoleon's invasion of Russia" graph, but with computer chips.
+
+**Example: Part 1**
+
+![Part 1 chip war diagram](chip-war/Chip-War-Part-1-diagram.jpg)
 
 ## References
 Some of the comics I'm inspired by include:
