@@ -12,7 +12,7 @@ These diagrams reflect the information presented in MIT's XV6 OS textbook and OS
 
 **Example: Part 1**
 
-![Part 1 chip war diagram](chip-war/Chip-War-Part-1-thumbnail.jpg)
+![Part 1 chip war diagram](chip-war/Chip-War-Part-1-diagram.svg)
 
 ## References
 Some of the comics I'm inspired by include:
